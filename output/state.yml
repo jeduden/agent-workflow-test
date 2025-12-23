@@ -1,0 +1,7 @@
+tries: 8
+difficulty: hard
+word: ecnallievrus
+guessed_letters: [a, b, c, d, f, q, z, p]
+max_tries: 6
+wrong_guesses: 6
+result: LOSE
